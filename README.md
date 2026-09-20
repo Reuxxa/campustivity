@@ -28,14 +28,13 @@ Aplikasi ini dibangun dengan **Python + Streamlit** untuk mengelola kegiatan mah
 
 Di halaman utama, pengguna bisa **login** atau **register**.
 
-### Akun:
+### Contoh Akun:
 | Peran       | Username / NIM | Password   |
 |-------------|----------------|------------|
 | Admin       | isa            | isa123     |
 | Pengelola   | laila          | laila123   |
 | Mahasiswa   | 123            | tata123    |
 
-Catatan: Akses di atas menggunakan data dummy khusus untuk keperluan peninjauan dan pengujian fitur portofolio
 ---
 
 ## Penjelasan Folder
